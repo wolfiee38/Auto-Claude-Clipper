@@ -1,0 +1,27 @@
+name: render-reels
+on:
+  push:
+    paths: ['jobs/**', 'render.py', '.github/workflows/render.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: render
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install ffmpeg + fonts
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-inter fonts-dejavu-core > /dev/null
+          ffmpeg -version | head -1
+      - name: Render
+        run: python3 render.py
+      - name: Commit media
+        run: |
+          git config user.name "clipper-bot"
+          git config user.email "clipper-bot@users.noreply.github.com"
+          git add media
+          git diff --cached --quiet || (git commit -m "Rendered reels" && git pull --rebase && git push)
