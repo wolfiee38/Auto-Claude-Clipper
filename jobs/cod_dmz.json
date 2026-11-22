@@ -1,0 +1,11 @@
+{
+  "name": "cod_dmz",
+  "campaign": "Call of Duty - MW4 DMZ Intel Briefing (Content Rewards)",
+  "source_url": "https://d37gy838mmomwa.cloudfront.net/544321340JSQH/956ddac4-70f8-4508-bd26-79e0666e08e8.mp4?response-content-disposition=attachment%3Bfilename%3D%22Season%201%20DMZ%20Intel%20Briefing%20XO1%2Emp4%22%3Bfilename*%3Dutf%2D8%27%27Season%25201%2520DMZ%2520Intel%2520Briefing%2520XO1%252Emp4&Expires=1795338000&Signature=g0l~f7xXYky9Q~zOIQitZT9ApEdbiO0OtlYlM-lykyVMjv8rBoh~YfIaZXyJYJV-eZJ-EbkENAi01Y0WJcgW0pUfL10pTf~4~UdScK0i5ji5boQLqD7BQ4XZem5JU8pnjICeKCywsM0ElaFMTKbOquQXdtU5P0P0h9bO5AqARzr9BGkIbJUR0HyTljJUQ3LzlHvxV3zyyRwPhebOoNutc0uUkC52ETpXzoHeUAMjIhrqoBT4jgPaK8aCopR0m4-6lnMgPxUX73Mz3Djm1z1PgZw6W~TMw2P8cSVWzcLrK~-BC4zl1gtpTTZJZQ65pc9MdkMEIB2K1aJg7BLTPrFqPw__&Key-Pair-Id=APKAJ53BB6P7Y4D54CVQ",
+  "bottom_text": "DMZ gets free access\nfor a limited time",
+  "clips": [
+    {"out": "dmz_1_first_look", "start": 6.78, "end": 25.95, "top": "MW4 DMZ SEASON 1\nINTEL BRIEFING"},
+    {"out": "dmz_2_squad_up", "start": 25.95, "end": 52.18, "top": "NEW DMZ INTEL\nMW4 SEASON 1"},
+    {"out": "dmz_3_full_briefing", "start": 0, "end": 63.98, "top": "FULL DMZ INTEL BRIEFING\nMW4 SEASON 1"}
+  ]
+}
