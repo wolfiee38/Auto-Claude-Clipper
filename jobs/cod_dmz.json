@@ -6,6 +6,10 @@
   "clips": [
     {"out": "dmz_1_first_look", "start": 6.78, "end": 25.95, "top": "MW4 DMZ SEASON 1\nINTEL BRIEFING"},
     {"out": "dmz_2_squad_up", "start": 25.95, "end": 52.18, "top": "NEW DMZ INTEL\nMW4 SEASON 1"},
-    {"out": "dmz_3_full_briefing", "start": 0, "end": 63.98, "top": "FULL DMZ INTEL BRIEFING\nMW4 SEASON 1"}
+    {"out": "dmz_3_full_briefing", "start": 0, "end": 63.98, "top": "FULL DMZ INTEL BRIEFING\nMW4 SEASON 1"},
+    {"out": "dmz_4_opening", "start": 0, "end": 18.43, "top": "DMZ IS BACK\nMW4 SEASON 1"},
+    {"out": "dmz_5_infiltration", "start": 18.43, "end": 38.93, "top": "DMZ SEASON 1\nTHE INFILTRATION"},
+    {"out": "dmz_6_breach", "start": 38.93, "end": 61.17, "top": "DMZ SEASON 1\nINTEL BRIEFING PT. 2"},
+    {"out": "dmz_7_finale", "start": 43.62, "end": 63.98, "top": "MW4 DMZ\nSEASON 1"}
   ]
 }
