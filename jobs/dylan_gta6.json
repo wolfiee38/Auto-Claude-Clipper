@@ -1,0 +1,13 @@
+{
+  "name": "dylan_gta6",
+  "source_type": "youtube",
+  "source_url": "https://www.youtube.com/watch?v=i1zUT_gKQzA",
+  "bottom_text": "",
+  "clips": [
+    {"out": "dylan_01", "start": 2700, "end": 2733, "top": "DYLAN PAGE\nGTA 6 MARATHON", "layout": "full"},
+    {"out": "dylan_02", "start": 9000, "end": 9036, "top": "DYLAN PAGE\nGTA 6 MARATHON", "layout": "full"},
+    {"out": "dylan_03", "start": 15000, "end": 15030, "top": "DYLAN PAGE\nGTA 6 MARATHON", "layout": "full"},
+    {"out": "dylan_04", "start": 22800, "end": 22838, "top": "DYLAN PAGE\nGTA 6 MARATHON", "layout": "full"},
+    {"out": "dylan_05", "start": 31200, "end": 31232, "top": "DYLAN PAGE\nGTA 6 MARATHON", "layout": "full"}
+  ]
+}
